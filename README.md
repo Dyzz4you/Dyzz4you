@@ -81,6 +81,16 @@ root@dyzz4you:~$ cat stack.json
   </tr>
 </table>
 
+
+---
+
+## 🐍 `./snake --eat-contributions`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dyzz4you/Dyzz4you/output/github-snake.svg" alt="Snake animation" />
+
+</div>
 ---
 
 ## 📡 `sudo ./stats --verbose`
