@@ -1,87 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2C5B,100:6CABDD&height=220&section=header&text=Yohanes%20Vianney%20Dias&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=%3E_%20Dyzz4you&fontSize=60&fontColor=00FF41&animation=twinkling&fontAlignY=40&desc=Yohanes%20Vianney%20Dias%20%7C%20Frontend%20Developer&descAlignY=65&descSize=20&descColor=00FF41" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6CABDD&center=true&vCenter=true&width=800&height=45&lines=Membangun+web+yang+cepat+dan+rapi;Frontend+Developer+%7C+Web+%26+Mobile;Terbuka+untuk+magang+%26+full-time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=700&height=50&lines=Initializing+Dyzz4you.exe...;Bypassing+boring+portfolios...;Access+granted+%E2%9C%85;sudo+hire+me+--now+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%26%20Full--time-6CABDD?style=for-the-badge&labelColor=1C2C5B)
-![Profile Views](https://komarev.com/ghpvc/?username=Dyzz4you&label=Profile+Views&color=1C2C5B&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000)
+![Mode](https://img.shields.io/badge/MODE-HACKER-00FF41?style=for-the-badge&labelColor=000000&logo=gnubash&logoColor=00FF41)
+![Views](https://komarev.com/ghpvc/?username=Dyzz4you&label=VISITORS&color=00FF41&labelColor=000000&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 💀 `whoami`
 
-```js
-const yohanes = {
-  name: "Yohanes Vianney Dias",
-  role: "Frontend Developer",
-  focus: ["Web responsif", "UI yang mudah diakses", "Kode yang rapi"],
-  currentlyBuilding: "Sistem booking berbasis TypeScript (repo private)",
-  currentlyLearning: ["TypeScript", "Next.js"],
-  openTo: ["Magang", "Full-time", "Kolaborasi"],
-  funFact: "Manchester is Blue 💙",
-};
+```bash
+root@dyzz4you:~$ whoami
+> Yohanes Vianney Dias a.k.a. Dyzz4you
+
+root@dyzz4you:~$ cat about.txt
+> Frontend Developer yang suka ngoding sampai lupa tidur
+> Pecinta web cepat, rapi, dan (sedikit) berantakan di commit message
+> Fans berat Manchester City 💙 (Manchester is Blue!)
+
+root@dyzz4you:~$ ./status.sh
+> [✔] Open to: Magang | Full-time | Kolaborasi
+> [✔] Caffeine level: CRITICAL ☕
+> [~] Learning: TypeScript, Next.js
+> [!] Bug count: classified
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚔️ `ls ~/arsenal`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,git,github,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,git,github,vscode,linux,bash&theme=dark" alt="Arsenal" />
 
 </div>
 
-<div align="center">
-
-| 🎨 Frontend | ⚙️ Backend | 🧰 Tools |
-|:-----------:|:----------:|:--------:|
-| HTML, CSS, JavaScript, TypeScript, React | Node.js, PHP, Laravel | Git, GitHub, VS Code |
-
-</div>
+```bash
+root@dyzz4you:~$ cat stack.json
+{
+  "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "React"],
+  "backend":  ["Node.js", "PHP", "Laravel"],
+  "tools":    ["Git", "GitHub", "VS Code"],
+  "loading":  ["Next.js ▓▓▓▓▓░░░░░ 50%"]
+}
+```
 
 ---
 
-## 🌱 Sedang Dipelajari
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-SSR%20%26%20Routing-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Proyek Pilihan
+## 🧬 `./projects --list`
 
 <table align="center">
   <tr>
     <td>
       <a href="https://github.com/Dyzz4you/PemrogramanWEB_Sistem_Booking_Lapangan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=PemrogramanWEB_Sistem_Booking_Lapangan&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Sistem Booking Lapangan" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=PemrogramanWEB_Sistem_Booking_Lapangan&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Sistem Booking Lapangan" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Dyzz4you/MobilePosts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=MobilePosts&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="MobilePosts" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=MobilePosts&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="MobilePosts" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Dyzz4you/Mobile_api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=Mobile_api&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Mobile API" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=Mobile_api&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Mobile API" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Dyzz4you/pemrogramanweblaravel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=pemrogramanweblaravel&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Pemrograman Web Laravel" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=pemrogramanweblaravel&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Laravel" />
       </a>
     </td>
   </tr>
@@ -89,33 +83,39 @@ const yohanes = {
 
 ---
 
-## 📊 Statistik GitHub
+## 📡 `sudo ./stats --verbose`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyzz4you&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyzz4you&layout=compact&langs_count=6&bg_color=0d1117&title_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyzz4you&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyzz4you&layout=compact&langs_count=6&bg_color=000000&title_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Top Langs" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyzz4you&bg_color=0d1117&color=6CABDD&line=6CABDD&point=FFFFFF&area=true&area_color=6CABDD&hide_border=true" alt="Activity Graph" />
+<img src="https://streak-stats.demolab.com/?user=Dyzz4you&background=000000&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00CC33&sideLabels=00CC33&dates=00AA2B" alt="Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyzz4you&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=Activity%20Log" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 📫 Hubungi Saya
+## 📟 `ping dyzz4you`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-1C2C5B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ANDA@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME-LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6CABDD?style=for-the-badge&logo=googlechrome&logoColor=white)](http://dyzz.wuaze.com/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41)](mailto:EMAIL_ANDA@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41)](https://www.linkedin.com/in/USERNAME-LINKEDIN/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41&labelColor=000000&color=00FF41)](http://dyzz.wuaze.com/)
 
-<br/>
+```bash
+root@dyzz4you:~$ echo "Thanks for hacking into my profile!"
+> Thanks for hacking into my profile! 💚
+root@dyzz4you:~$ exit
+```
 
-*Terima kasih sudah mampir! Mari berkolaborasi.* 💙
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2C5B,100:6CABDD&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer&text=%5BConnection%20closed%5D&fontSize=18&fontColor=00FF41&animation=twinkling&fontAlignY=65" alt="Footer" />
 
 </div>
