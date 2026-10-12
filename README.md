@@ -1,11 +1,13 @@
-<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yohanes%20Vianney%20Dias&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2C5B,100:6CABDD&height=220&section=header&text=Yohanes%20Vianney%20Dias&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Halo%2C+saya+Yohanes+Vianney+Dias+%F0%9F%91%8B;Frontend+Developer;Membangun+web+yang+cepat+dan+rapi;Terbuka+untuk+peluang+baru+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6CABDD&center=true&vCenter=true&width=800&height=45&lines=Membangun+web+yang+cepat+dan+rapi;Frontend+Developer+%7C+Web+%26+Mobile;Terbuka+untuk+magang+%26+full-time" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=2c5364&style=flat)
+<br/>
+
+![Open to Work](https://img.shields.io/badge/Open%20to-Internship%20%26%20Full--time-6CABDD?style=for-the-badge&labelColor=1C2C5B)
+![Profile Views](https://komarev.com/ghpvc/?username=Dyzz4you&label=Profile+Views&color=1C2C5B&style=for-the-badge)
 
 </div>
 
@@ -13,12 +15,17 @@
 
 ## 👨‍💻 Tentang Saya
 
-- 🎯 Saya seorang **Frontend Developer** yang fokus membuat antarmuka web yang responsif, mudah diakses, dan enak dipakai.
-- 🔭 Saat ini saya sedang mengerjakan **[nama proyek yang sedang dikerjakan]**.
-- 🌱 Saya sedang mempelajari **TypeScript** dan **Next.js**.
-- 🤝 Saya terbuka untuk **kolaborasi**, **magang**, dan **posisi full-time**.
-- 💬 Tanya saya tentang **JavaScript, React, dan pengembangan web modern**.
-- ⚡ Fun fact: **[tulis fakta unik tentang Anda]**.
+```js
+const yohanes = {
+  name: "Yohanes Vianney Dias",
+  role: "Frontend Developer",
+  focus: ["Web responsif", "UI yang mudah diakses", "Kode yang rapi"],
+  currentlyBuilding: "Sistem booking berbasis TypeScript (repo private)",
+  currentlyLearning: ["TypeScript", "Next.js"],
+  openTo: ["Magang", "Full-time", "Kolaborasi"],
+  funFact: "Manchester is Blue 💙",
+};
+```
 
 ---
 
@@ -26,28 +33,59 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,git,github,vscode&theme=dark" alt="Tech Stack" />
 
 </div>
-
-| Kategori | Teknologi |
-|----------|-----------|
-| 🎨 **Frontend** | HTML, CSS, JavaScript, React |
-| ⚙️ **Backend** | Node.js |
-| 🧰 **Tools** | Git, GitHub, VS Code |
-
----
-
-## 📚 Sedang Dipelajari
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs&theme=dark" alt="Learning" />
+| 🎨 Frontend | ⚙️ Backend | 🧰 Tools |
+|:-----------:|:----------:|:--------:|
+| HTML, CSS, JavaScript, TypeScript, React | Node.js, PHP, Laravel | Git, GitHub, VS Code |
 
 </div>
 
-- 🔷 **TypeScript**: menulis kode yang lebih aman dan mudah dirawat
-- ▲ **Next.js**: SSR, routing, dan optimasi performa
+---
+
+## 🌱 Sedang Dipelajari
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-SSR%20%26%20Routing-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyek Pilihan
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Dyzz4you/PemrogramanWEB_Sistem_Booking_Lapangan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=PemrogramanWEB_Sistem_Booking_Lapangan&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Sistem Booking Lapangan" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Dyzz4you/MobilePosts">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=MobilePosts&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="MobilePosts" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Dyzz4you/Mobile_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=Mobile_api&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Mobile API" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Dyzz4you/pemrogramanweblaravel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=pemrogramanweblaravel&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Pemrograman Web Laravel" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,31 +93,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyzz4you&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6CABDD&icon_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyzz4you&layout=compact&langs_count=6&bg_color=0d1117&title_color=6CABDD&text_color=C9D1D9&border_color=1C2C5B" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🚀 Proyek Unggulan
-
-| Proyek | Deskripsi | Teknologi |
-|--------|-----------|-----------|
-| 🌐 [**Nama Proyek 1**](https://github.com/USERNAME/proyek-1) | Deskripsi singkat satu kalimat tentang proyek ini. | `React` `CSS` |
-| 🛒 [**Nama Proyek 2**](https://github.com/USERNAME/proyek-2) | Deskripsi singkat satu kalimat tentang proyek ini. | `JavaScript` `Node.js` |
-| 📱 [**Nama Proyek 3**](https://github.com/USERNAME/proyek-3) | Deskripsi singkat satu kalimat tentang proyek ini. | `HTML` `CSS` `JS` |
-
-Atau tampilkan sebagai kartu repositori:
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=NAMA-REPO-1&theme=tokyonight&hide_border=true)](https://github.com/USERNAME/NAMA-REPO-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=NAMA-REPO-2&theme=tokyonight&hide_border=true)](https://github.com/USERNAME/NAMA-REPO-2)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyzz4you&bg_color=0d1117&color=6CABDD&line=6CABDD&point=FFFFFF&area=true&area_color=6CABDD&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -89,22 +108,14 @@ Atau tampilkan sebagai kartu repositori:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ANDA@gmail.com)
+[![Email](https://img.shields.io/badge/Email-1C2C5B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ANDA@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME-LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://PORTFOLIO-ANDA.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6CABDD?style=for-the-badge&logo=googlechrome&logoColor=white)](http://dyzz.wuaze.com/)
 
-</div>
+<br/>
 
-- 📧 **Email:** EMAIL_ANDA@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/USERNAME-LINKEDIN](https://www.linkedin.com/in/USERNAME-LINKEDIN/)
-- 🌍 **Portfolio:** [PORTFOLIO-ANDA.com](https://PORTFOLIO-ANDA.com)
+*Terima kasih sudah mampir! Mari berkolaborasi.* 💙
 
----
-
-<div align="center">
-
-⭐ *Terima kasih sudah mampir! Jangan ragu untuk menghubungi saya.* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2C5B,100:6CABDD&height=100&section=footer" alt="Footer" />
 
 </div>
