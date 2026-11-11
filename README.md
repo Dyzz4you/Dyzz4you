@@ -32,7 +32,7 @@ root@dyzz4you:~$ ./status.sh
 
 ---
 
-## ⚔️ `ls ~/arsenal`
+## ⚔️ `ls ~/ManCity`
 
 <div align="center">
 
