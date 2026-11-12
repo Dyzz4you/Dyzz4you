@@ -54,33 +54,16 @@ root@dyzz4you:~$ cat stack.json
 
 ## 🧬 `./projects --list`
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/Dyzz4you/PemrogramanWEB_Sistem_Booking_Lapangan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=PemrogramanWEB_Sistem_Booking_Lapangan&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Sistem Booking Lapangan" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Dyzz4you/MobilePosts">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=MobilePosts&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="MobilePosts" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Dyzz4you/Mobile_api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=Mobile_api&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Mobile API" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Dyzz4you/pemrogramanweblaravel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyzz4you&repo=pemrogramanweblaravel&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Laravel" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+| Project | Deskripsi | Bahasa |
+|:--|:--|:--|
+| [**Sistem Booking Lapangan**](https://github.com/Dyzz4you/PemrogramanWEB_Sistem_Booking_Lapangan) | Sistem booking lapangan berbasis web | ![](https://img.shields.io/github/languages/top/Dyzz4you/PemrogramanWEB_Sistem_Booking_Lapangan?style=flat-square&labelColor=000000&color=00FF41) |
+| [**MobilePosts**](https://github.com/Dyzz4you/MobilePosts) | Aplikasi mobile untuk postingan | ![](https://img.shields.io/github/languages/top/Dyzz4you/MobilePosts?style=flat-square&labelColor=000000&color=00FF41) |
+| [**Mobile API**](https://github.com/Dyzz4you/Mobile_api) | REST API untuk aplikasi mobile | ![](https://img.shields.io/github/languages/top/Dyzz4you/Mobile_api?style=flat-square&labelColor=000000&color=00FF41) |
+| [**Laravel**](https://github.com/Dyzz4you/pemrogramanweblaravel) | Latihan pemrograman web dengan Laravel | ![](https://img.shields.io/github/languages/top/Dyzz4you/pemrogramanweblaravel?style=flat-square&labelColor=000000&color=00FF41) |
+
+</div>
 
 ---
 
@@ -97,8 +80,8 @@ root@dyzz4you:~$ cat stack.json
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dyzz4you&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyzz4you&layout=compact&langs_count=6&bg_color=000000&title_color=00FF41&text_color=00CC33&border_color=00FF41" alt="Top Langs" />
+![Followers](https://img.shields.io/github/followers/Dyzz4you?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41)
+![Last Commit](https://img.shields.io/github/last-commit/Dyzz4you/Dyzz4you?style=for-the-badge&labelColor=000000&color=00FF41)
 
 <br/>
 
@@ -106,7 +89,7 @@ root@dyzz4you:~$ cat stack.json
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dyzz4you&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true&custom_title=Activity%20Log" alt="Activity Graph" />
+<img src="https://ghchart.rshah.org/00FF41/Dyzz4you" alt="Activity Log" width="700" />
 
 </div>
 
